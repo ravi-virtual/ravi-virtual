@@ -77,5 +77,5 @@ Developer from Gujarat, India, building web applications and exploring AI-powere
 
 ## 📫 Connect with me
 
-- GitHub: [@ravipatel10](https://github.com/ravipatel10)
+- GitHub: [@ravi-virtual](https://github.com/ravi-virtual)
 <!-- Add LinkedIn, email or portfolio links here. -->
