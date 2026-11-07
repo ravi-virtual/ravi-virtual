@@ -63,10 +63,8 @@ Developer from Gujarat, India, building web applications and exploring AI-powere
 
 | Project | Description |
 | --- | --- |
-| [Samaj-Website](https://github.com/ravi-virtual/Samaj-Website) | Community (Samaj) website with themeable layouts |
-| [ai-service-recommendation](https://github.com/ravi-virtual/ai-service-recommendation) | AI-based service recommendation |
+| [patidar-samaj-site](https://github.com/ravi-virtual/patidar-samaj-site) | Community (Samaj) website with themeable layouts |
 | [ai-custom-skills](https://github.com/ravi-virtual/ai-custom-skills) | Custom AI skills |
-| [Chat-App](https://github.com/ravi-virtual/Chat-App) | Chat application |
 | [Resume-Creater](https://github.com/ravi-virtual/Resume-Creater) | Resume builder |
 | [todolist](https://github.com/ravi-virtual/todolist) | To-do list app |
 | [Daily-Journal-Site](https://github.com/ravi-virtual/Daily-Journal-Site) | Daily journal website |
